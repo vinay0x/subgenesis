@@ -22,8 +22,8 @@ class App extends React.Component {
     files.forEach(file => {
       promises[file.name] = (window.global.download(file.path))
     })
+    console.log(promises)
     const result = await Promise.props(promises)
-    console.log(result)
     this.setState({
       loading: false 
     })

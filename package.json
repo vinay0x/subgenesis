@@ -38,6 +38,6 @@
     "bluebird": "^3.5.1",
     "react-dropzone": "^4.3.0",
     "react-spinners": "^0.3.3",
-    "subdb-node": "^0.1.48"
+    "subdb-node": "^0.1.49"
   }
 }
