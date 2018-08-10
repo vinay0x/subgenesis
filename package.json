@@ -36,10 +36,11 @@
   },
   "dependencies": {
     "bluebird": "^3.5.1",
-    "bro-fs": "^0.4.0",
     "react-dropzone": "^4.3.0",
     "react-lottie": "^1.2.3",
     "react-spinners": "^0.3.3",
+    "react-toastify": "^4.1.0",
+    "recursive-readdir": "^2.2.2",
     "subdb-node": "^0.1.53"
   }
 }

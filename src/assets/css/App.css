@@ -78,6 +78,16 @@ body{
 }
 h6{
 	color: white;
-	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+}
+.toast{
+	background: #0199db;
+	font-size: 14px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+}
+.info-box{
+	height: 120px;
 }
