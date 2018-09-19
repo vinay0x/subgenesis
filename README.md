@@ -20,7 +20,7 @@ As of now SubGenesis runs on Windows and MacOS. Future builds for Linux, Android
 SubGenesis is free, and will always be. Yeah, no ads 
 
 ## Installation
-Download the latest binary for your platform from the releases page.
+Download the latest binary for your platform from the [releases](https://github.com/vinaychandranvs/subgenesis/releases) page.
 
 ### To-do List
 - [x] Batch files processing
